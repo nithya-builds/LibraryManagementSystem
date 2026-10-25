@@ -2,8 +2,8 @@
 
 **Course:** 23CSR306 Java Programming - Assignment II (OOP Mini Project), 2026-2027
 **Specification:** 2 - Library Management System
-**Name:** YOUR NAME HERE
-**Roll No:** YOUR ROLL NUMBER HERE
+**Name:** Nithya Bhuvaneswari M
+**Roll No:** 717825P332
 
 ## Problem Statement
 Design and implement a Java console application for a Library Management System that manages books, members, borrowing, and returns. The system should follow object-oriented principles and ensure proper tracking of availability.
